@@ -49,3 +49,5 @@ print(result)
 
 result = cube_number(3)
 print(result)
+
+print('this is a demo for empire 3')
